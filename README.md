@@ -1,2 +1,2 @@
 # relive_lore
-Revue Starlight has a really easy to understand story actually 
+Revue Starlight ReLive has a really easy to understand story actually. 
